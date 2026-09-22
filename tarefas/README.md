@@ -1,4 +1,4 @@
-# Tarefas da Turma de Engenharia de Software II
+# Tarefas das Disciplinas de Engenharia de Software
 
 ## Tarefas Individuais
 

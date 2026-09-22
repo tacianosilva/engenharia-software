@@ -50,5 +50,5 @@ Revisar e atualizar quando necessário:
 - Versionamento Semântico — <https://semver.org/lang/pt-BR/>
 - Conventional Commits — <https://www.conventionalcommits.org/pt-br/v1.0.0/>
 - AcademicDevFlow — <https://labens.dct.ufrn.br/academicflow/>
-- Plano de Iteração — <https://github.com/tacianosilva/eng-software-2/blob/master/projetos/20241/plano-iteracoes.md>
-- Detalhamento das atividades — <https://github.com/tacianosilva/eng-software-2/blob/master/docs/doc-tarefas.md>
+- Plano de Iteração — <https://github.com/tacianosilva/engenharia-software/blob/main/projetos/20241/plano-iteracoes.md>
+- Detalhamento das atividades — <https://github.com/tacianosilva/engenharia-software/blob/main/docs/doc-tarefas.md>

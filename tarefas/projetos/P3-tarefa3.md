@@ -33,7 +33,7 @@
 - **Arquitetura Geral do Sistema:** Criar diagrama representando as camadas do sistema (da tela ao banco) e descrever cada componente.
   - [Modelo de Documento Arquitetural](https://docs.google.com/document/d/1i80vPaInPi5lSpI7rk4QExnO86iEmrsHBfmYRy6RDSM/edit?usp=sharing)
 - **Documento de Tamanho Funcional (APF):** Fazer a contagem detalhada para cada User Story e a contagem indicativa de todo o sistema.
-  - [Modelo em Markdown](https://github.com/tacianosilva/eng-software-2/blob/master/docs/doc-apf.md)
+  - [Modelo em Markdown](https://github.com/tacianosilva/engenharia-software/blob/main/docs/doc-apf.md)
   - [Modelo no Google Docs](https://docs.google.com/document/d/1s4bMbrpQt9RF6tymXvI0HHfQO14hMyL08UxmX1eH82s/edit?usp=sharing)
 
 ## 5. Qualidade de Código
@@ -55,5 +55,5 @@
 - Versionamento Semântico — <https://semver.org/lang/pt-BR/>
 - Conventional Commits — <https://www.conventionalcommits.org/pt-br/v1.0.0/>
 - AcademicDevFlow — <https://labens.dct.ufrn.br/academicflow/>
-- Plano de Iteração — <https://github.com/tacianosilva/eng-software-2/blob/master/projetos/20241/plano-iteracoes.md>
-- Detalhamento das atividades — <https://github.com/tacianosilva/eng-software-2/blob/master/docs/doc-tarefas.md>
+- Plano de Iteração — <https://github.com/tacianosilva/engenharia-software/blob/main/projetos/20241/plano-iteracoes.md>
+- Detalhamento das atividades — <https://github.com/tacianosilva/engenharia-software/blob/main/docs/doc-tarefas.md>

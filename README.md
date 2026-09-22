@@ -1,8 +1,21 @@
-# Engenharia de Software II
+# Engenharia de Software — Hub de Documentação
 
-Repositório para a Disciplina Engenharia de Software II.
+Hub público de **documentação, tutoriais, tarefas e projetos** das disciplinas de Engenharia de Software e áreas afins do Bacharelado em Sistemas de Informação (BSI-UFRN).
 
-Neste repositório teremos a lista de tarefas para a disciplina e os modelos de documentação com exemplos. Descrevemos o Plano de Iteração (Cronograma) e as atividades em cada uma.
+Neste repositório temos a lista de tarefas das disciplinas, os modelos de documentação com exemplos e a divulgação das descrições das atividades. Descrevemos o Plano de Iteração (Cronograma) e as atividades em cada uma.
+
+## Disciplinas
+
+- [Engenharia de Software I — DCT2301](disciplinas/es-i.md)
+- [Engenharia de Software II — DCT2302](disciplinas/es-ii.md)
+- [Teste de Software — DCT2304](disciplinas/teste-de-software.md)
+- [Organização, Sistemas e Métodos — DCT3102](disciplinas/osm-engenharia-requisitos.md)
+
+Veja o [índice de disciplinas](disciplinas/README.md), incluindo as disciplinas previstas no PPC-BSI 2027.
+
+## Engenharia de Software II
+
+Modelos de documentação da disciplina:
 
 * Modelo do [Plano de Iteração](docs/doc-iteracao.md)
 * Descrição das atividades nas [Tarefas por Iteração](docs/doc-tarefas.md)

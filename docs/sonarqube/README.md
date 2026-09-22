@@ -1,7 +1,7 @@
 # SonarQube
 
 Guia de configuração e uso do SonarQube para análise de qualidade de código
-na disciplina Engenharia de Software II.
+nas disciplinas de Engenharia de Software.
 
 ## Páginas
 

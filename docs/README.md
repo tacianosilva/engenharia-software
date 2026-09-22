@@ -1,6 +1,6 @@
 # Documentação
 
-Neste diretório estão os modelos de documentação e guias de apoio utilizados na disciplina Engenharia de Software II.
+Neste diretório estão os modelos de documentação e guias de apoio utilizados nas disciplinas de Engenharia de Software.
 
 ## Modelos de Documentação
 

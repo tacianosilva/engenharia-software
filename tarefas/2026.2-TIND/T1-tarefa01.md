@@ -3,17 +3,17 @@
 **Turma:** DCT2302 — 2026.2-TIND (Ensino Individualizado)
 **Discente:** Artur Morais Candeia
 
-Para responder às questões abaixo você deve utilizar um **fork** do repositório **eng-software-2** no github: [https://github.com/tacianosilva/eng-software-2](https://github.com/tacianosilva/eng-software-2).
+Para responder às questões abaixo você deve utilizar um **fork** do repositório **engenharia-software** no github: [https://github.com/tacianosilva/engenharia-software](https://github.com/tacianosilva/engenharia-software).
 
 Lembre-se que você trabalhará no seu fork e depois fará um pull request. Coloque seus arquivos de resposta no diretório com seu nome dentro de *tarefas/2026.2-TIND/\<username\>/*. Acesse o Guia Básico de Markdown: [https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown)
 
-1. Cadastre uma tarefa (issue) para você com o título **“Tarefa 01 - Adicionado página Markdown de \<nomedodiscente\>”** no repositório da disciplina [**eng-software-2**](https://github.com/tacianosilva/eng-software-2).  
-2. Faça o **fork** do repositório [**eng-software-2**](https://github.com/tacianosilva/eng-software-2).  
+1. Cadastre uma tarefa (issue) para você com o título **“Tarefa 01 - Adicionado página Markdown de \<nomedodiscente\>”** no repositório da disciplina [**engenharia-software**](https://github.com/tacianosilva/engenharia-software).  
+2. Faça o **fork** do repositório [**engenharia-software**](https://github.com/tacianosilva/engenharia-software).  
 3. Faça **um clone do seu fork**:   
-   *git clone https://github.com/\<username\>/eng-software-2.git*  
+   *git clone https://github.com/\<username\>/engenharia-software.git*  
 4. Atualize o seu fork:
 
-   git remote add upstream https://github.com/tacianosilva/eng-software-2.git  
+   git remote add upstream https://github.com/tacianosilva/engenharia-software.git  
    git fetch upstream  
    git checkout main  
    git merge upstream/main  
@@ -43,7 +43,7 @@ Lembre-se que você trabalhará no seu fork e depois fará um pull request. Colo
 Lembre-se das boas práticas do Git: 
 
 1. **atualizar seu fork** a partir do original com **pull request** antes de começar a desenvolver  
-2. faça **um clone do seu fork**: **git clone** https://github.com/*\<username\>*/eng-software-2.git  
+2. faça **um clone do seu fork**: **git clone** https://github.com/*\<username\>*/engenharia-software.git  
 3. fazer git pull para atualizar sua pasta de trabalho: **git pull**  
 4. fazer commits pequenos e sempre colocar uma mensagem relevante e ao final da mensagem identifique a issue com **\#\<id\_issue\>**  
 5. enviar suas modificações para seu repositório remoto: **git push**  

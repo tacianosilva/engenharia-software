@@ -1,7 +1,7 @@
 # Contribuindo com o Repositório
 
-Este documento orienta a contribuição de discentes para o repositório da
-disciplina Engenharia de Software II.
+Este documento orienta a contribuição de discentes para o repositório das
+disciplinas de Engenharia de Software.
 
 ## Como contribuir
 

@@ -1,6 +1,6 @@
 # Modelos do Plano de Iteração e Plano de Release
 
-Este é um modelo para o **Plano de Iteração** e **Plano de Release** que será usando como exemplo da disciplina Engenharia de Software II. O cronograma de datas será informado a cada *Semestre Letivo*.
+Este é um modelo para o **Plano de Iteração** e **Plano de Release** que será usando como exemplo das disciplinas de Engenharia de Software. O cronograma de datas será informado a cada *Semestre Letivo*.
 
 ## Plano de Iterações
 
