@@ -1,0 +1,107 @@
+flowchart LR
+    %% ===== YP-Agentic - Fluxo de Desenvolvimento Acadêmico =====
+    %% Fonte editável do fluxograma (assets/fluxo-yp-agentic.mmd)
+    %% Renderizar em: mermaid.live, VS Code (extensão Mermaid) ou GitHub
+
+    %% ===== Estilos =====
+    classDef fase1 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px,color:#0D47A1
+    classDef operacional fill:#E0F2F1,stroke:#009688,stroke-width:2px,color:#004D40
+    classDef artefato fill:#ECEFF1,stroke:#90A4AE,color:#37474F
+    classDef loop fill:#FFF3E0,stroke:#FF9800,stroke-width:2px,color:#E65100
+    classDef nota fill:#FFFDE7,stroke:#F9A825,color:#F57F17
+
+    %% ===== FASE 1 - Conversa com o Cliente =====
+    subgraph F1["FASE 1 — Conversa com o Cliente"]
+        direction TB
+        V1[Documento de Visão]
+        P1[PRD]
+        L1[Lista de User Stories]
+        M1[Documento de Modelos]
+        A1[Projeto Arquitetural]
+    end
+
+    %% ===== FASE 2 - Inicialização =====
+    subgraph F2["FASE 2 — Inicialização"]
+        direction TB
+        T1[Termo de Abertura de Projeto]
+        D1[Documento de Agentes]
+    end
+
+    %% ===== FASE 3 - Planejamento de Releases =====
+    subgraph F3["FASE 3 — Planejamento de Releases"]
+        direction TB
+        R1[Plano de Release]
+        G1[Plano Geral de Testes]
+        E1[Especificação de User Stories]
+    end
+
+    %% ===== FASE 4 - Planejamento de Iteração =====
+    subgraph F4["FASE 4 — Planejamento de Iteração"]
+        direction TB
+        I1[Plano de Iteração]
+        T2[Plano de Teste da Iteração]
+        N1(Definição dos Testes de Aceitação)
+    end
+
+    %% ===== FASE 5 - Implementação =====
+    subgraph F5["FASE 5 — Implementação"]
+        direction TB
+        A2[Atas de Reunião]
+        V2[Versão do Produto]
+        N2(Reuniões de Acompanhamento)
+    end
+
+    %% ===== FASE 6 - Implantação =====
+    subgraph F6["FASE 6 — Implantação"]
+        direction TB
+        R2[Relatório de Testes]
+    end
+
+    %% ===== FASE 7 - Fim da Iteração =====
+    subgraph F7["FASE 7 — Fim da Iteração"]
+        direction TB
+        V3[Verificação dos Testes de Aceitação]
+        P2[Produto Final]
+        L2{{Próxima Iteração}}
+        L3{{Próxima Release}}
+    end
+
+    %% ===== FASE 8 - Finalização =====
+    subgraph F8["FASE 8 — Finalização"]
+        direction TB
+        T3[Termo de Encerramento de Projeto]
+        E2[Entrega Final]
+    end
+
+    %% ===== Fluxo principal =====
+    V1 --> P1 --> L1 --> M1 --> A1
+    A1 --> T1
+    T1 --> D1
+    D1 --> R1
+    R1 --> G1 --> E1
+    E1 --> I1
+    I1 --> T2
+    T2 --> A2
+    A2 --> V2
+    V2 --> R2
+    R2 --> V3
+    V3 --> P2
+    P2 --> T3
+    T3 --> E2
+
+    %% ===== Notas de fase =====
+    T2 -.-> N1
+    A2 -.-> N2
+
+    %% ===== Loops (caráter iterativo incremental) =====
+    V3 --> L2
+    L2 -->|retorna| I1
+    V3 --> L3
+    L3 -->|retorna| R1
+
+    %% ===== Aplicação de estilos =====
+    class V1,P1,L1,M1,A1,T1,D1,R1,G1,E1,I1,T2,A2,V2,R2,V3,P2,T3,E2 artefato
+    class N1,N2 nota
+    class L2,L3 loop
+    class F1 fase1
+    class F2,F3,F4,F5,F6,F7,F8 operacional
