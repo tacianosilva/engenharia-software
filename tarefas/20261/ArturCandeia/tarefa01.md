@@ -1,7 +1,7 @@
 # Tarefa 01 - Git e GitHub com Markdown
 
 **Nome:** Artur Morais Candeia  
-**Usuário GitHub:** ArturCandeia 
+**Usuário GitHub:** ArturCandeia  
 **E-mail:** artur.candeia.086@ufrn.edu.br
 
 ---
