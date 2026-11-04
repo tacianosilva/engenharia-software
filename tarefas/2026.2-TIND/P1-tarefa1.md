@@ -2,7 +2,7 @@
 
 **Disciplina:** Engenharia de Software II — DCT2302
 **Turma:** 2026.2-TIND (Ensino Individualizado)
-**Processo:** [YP-Agentic](../../yp-agentic/manual-passo-a-passo.md)
+**Processo:** [YP-Agentic](https://github.com/tacianosilva/engenharia-software/tree/main/yp-agentic)
 **Iteração:** 1 · Fases 1–3 (Conversa com o Cliente, Inicialização e Planejamento de Releases)
 **Prazo:** **29/09/2026**
 **Discente:** Artur Morais Candeia
@@ -14,7 +14,7 @@ Você dá continuidade ao projeto **SIGAEX** em regime individual, acumulando os
 - **Backend:** https://github.com/labens-ufrn/sigaex-backend
 - **Frontend:** https://github.com/labens-ufrn/sigaex-frontend
 
-Antes de começar, **leia obrigatoriamente** o `yp-agentic/manual-passo-a-passo.md`, depois `processo/glossario.md` e `processo/artefatos.md`. O **Anexo A** informa o estado atual do SIGAEX — use-o como ponto de partida (não recrie do zero: **revise e atualize** documentos existentes).
+Antes de começar, **leia obrigatoriamente** o `yp-agentic/manual-passo-a-passo.md` (https://github.com/tacianosilva/engenharia-software/blob/main/yp-agentic/manual-passo-a-passo.md), depois `processo/glossario.md` e `processo/artefatos.md`. O **Anexo A** informa o estado atual do SIGAEX — use-o como ponto de partida (não recrie do zero: **revise e atualize** documentos existentes).
 
 ## 2. Entregáveis (todos em Markdown na pasta `docs/` dos repositórios do projeto)
 
