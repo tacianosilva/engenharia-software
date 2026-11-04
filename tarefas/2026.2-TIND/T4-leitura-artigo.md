@@ -21,6 +21,12 @@ Qual novidade o artigo traz? Seja na metodologia, resultados ou conclusões.
 **Q4 — Quais são as grandes conclusões?**  
 Qual a conclusão do artigo? Ele resolve o problema? Apresenta as soluções para as questões de pesquisa?
 
+**Q5 — Como o estudo foi conduzido?**  
+Descreva o desenho metodológico: tipo de estudo (experimento, estudo de caso, survey, revisão sistemática, mineração de repositórios etc.), os dados, participantes ou objetos analisados, os procedimentos e instrumentos utilizados, as métricas adotadas e como os resultados foram analisados.
+
+**Q6 — Quais são as ameaças à validade e as limitações do estudo?**  
+Quais fatores podem comprometer os resultados (ameaças de construto, internas, externas e de conclusão)? O que os autores declaram como limitação? O estudo pode ser replicado — os dados, artefatos e scripts estão disponíveis?
+
 ---
 
 ### Eventos e Artigos Aceitos:
