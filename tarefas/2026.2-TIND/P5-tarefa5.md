@@ -5,7 +5,8 @@
 **Iteração:** 4  
 **Foco:** Conteinerização com Docker, Deploy, Qualidade Máxima e Consolidação  
 **Discente:** Artur Morais Candeia  
-**Prazo:** **08/12/2026**  
+**Publicação:** 17/11/2026  
+**Data limite de envio:** **08/12/2026**  
 
 ---
 

@@ -1,6 +1,8 @@
 # Tarefa de Recuperação — Engenharia de Software II
 
 **Turma:** DCT2302 — 2026.2-TIND (Ensino Individualizado)  
+**Publicação:** 08/12/2026  
+**Data limite de envio:** **15/12/2026**  
 **Discente:** Artur Morais Candeia  
 
 ---

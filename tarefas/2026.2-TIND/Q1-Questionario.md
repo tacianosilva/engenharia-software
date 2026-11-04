@@ -5,6 +5,8 @@
 **Unidade:** Segunda Unidade  
 **Plataforma:** [Multiprova UFRN](https://multiprova.ufrn.br)  
 **Formato:** Questões 100% objetivas (múltipla escolha), estilo ENADE  
+**Publicação:** 20/10/2026  
+**Data limite de envio:** **27/10/2026**  
 **Discente:** Artur Morais Candeia  
 
 ---

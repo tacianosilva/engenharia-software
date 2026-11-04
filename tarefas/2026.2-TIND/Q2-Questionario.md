@@ -5,6 +5,8 @@
 **Unidade:** Terceira Unidade  
 **Plataforma:** [Multiprova UFRN](https://multiprova.ufrn.br)  
 **Formato:** Questões 100% objetivas (múltipla escolha), estilo ENADE  
+**Publicação:** 24/11/2026  
+**Data limite de envio:** **01/12/2026**  
 **Discente:** Artur Morais Candeia  
 
 ---

@@ -5,7 +5,8 @@
 **Iteração:** 3  
 **Foco:** Evolução, Testes de Sistema (Selenium), Qualidade e Correção de Bugs  
 **Discente:** Artur Morais Candeia  
-**Prazo:** **17/11/2026**  
+**Publicação:** 03/11/2026  
+**Data limite de envio:** **17/11/2026**  
 
 ---
 

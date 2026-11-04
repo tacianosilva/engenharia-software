@@ -4,6 +4,8 @@
 **Turma:** 2026.2-TIND (Ensino Individualizado)
 **Iteração:** 2
 **Foco:** Desenvolvimento, Testes e Arquitetura
+**Publicação:** 06/10/2026
+**Data limite de envio:** **27/10/2026**
 **Discente:** Artur Morais Candeia
 
 ## 1. Atualização dos Documentos

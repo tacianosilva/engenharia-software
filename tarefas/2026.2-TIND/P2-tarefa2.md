@@ -4,7 +4,8 @@
 **Turma:** 2026.2-TIND (Ensino Individualizado)
 **Processo:** [YP-Agentic](https://github.com/tacianosilva/engenharia-software/tree/main/yp-agentic)
 **Iteração:** 1 · Fases 4–6 (Planejamento de Iteração, Implementação e Implantação)
-**Prazo:** **06/10/2026**
+**Publicação:** 22/09/2026
+**Data limite de envio:** **06/10/2026**
 **Discente:** Artur Morais Candeia
 
 ## 1. Contexto

@@ -2,6 +2,8 @@
 
 **Turma:** DCT2302 — 2026.2-TIND (Ensino Individualizado)  
 **Discente:** Artur Morais Candeia  
+**Publicação:** 10/11/2026  
+**Data limite de envio:** 24/11/2026  
 
 Escolha um artigo dos eventos listados abaixo, apresente seu resumo por **vídeo ou áudio no Discord da disciplina** (ou outro canal combinado com o professor) e poste o artigo e sua opinião no Discord. Deve ser enviado um **PDF** na tarefa respondendo às questões abaixo. Lembre-se de colocar a referência ABNT e o link do artigo, além de seu nome e matrícula.
 

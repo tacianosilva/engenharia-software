@@ -4,7 +4,8 @@
 **Turma:** 2026.2-TIND (Ensino Individualizado)
 **Processo:** [YP-Agentic](https://github.com/tacianosilva/engenharia-software/tree/main/yp-agentic)
 **Iteração:** 1 · Fases 1–3 (Conversa com o Cliente, Inicialização e Planejamento de Releases)
-**Prazo:** **29/09/2026**
+**Publicação:** 08/09/2026
+**Data limite de envio:** **29/09/2026**
 **Discente:** Artur Morais Candeia
 
 ## 1. Contexto
