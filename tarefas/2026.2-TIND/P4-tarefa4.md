@@ -1,4 +1,4 @@
-# P4 — Evolução e Testes de Sistema com Selenium (Individual)
+# P4 - Projeto 04 - Evolução e Testes de Sistema com Selenium
 
 **Disciplina:** Engenharia de Software II — DCT2302  
 **Turma:** 2026.2-TIND (Ensino Individualizado)  

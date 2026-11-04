@@ -1,4 +1,4 @@
-**Tarefa 01 - Git e GitHub com Markdown**
+# T1 - Tarefa 01 - Git, GitFlow, Tags e SemVer Automatizado
 
 **Turma:** DCT2302 — 2026.2-TIND (Ensino Individualizado)
 **Discente:** Artur Morais Candeia

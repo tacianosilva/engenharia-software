@@ -1,4 +1,4 @@
-# P1 — Iniciação e Planejamento do Projeto (Individual · YP-Agentic)
+# P1 - Projeto 01 - Iniciação e Planejamento do Projeto
 
 **Disciplina:** Engenharia de Software II — DCT2302
 **Turma:** 2026.2-TIND (Ensino Individualizado)
@@ -66,9 +66,9 @@ Conforme `templates/doc-agentes.md`: defina os **agentes de IA especializados** 
 - Faça **commits pequenos** com Conventional Commits referenciando a issue (ex.: `docs: adiciona PRD do SIGAEX #14`).
 - Abra **Pull Request** com descrição adequada e `Closes #<id>`.
 
-## 4. Critérios (10,0 pontos)
+## 4. Avaliação (10,0 pontos)
 
-Conforme `P1-criterios.md`.
+A avaliação considera a completude e a qualidade técnica dos artefatos produzidos, o fluxo Git/GitHub adotado (issues, branches, commits convencionais e Pull Requests) e a coerência entre documentação e código. Os pesos detalhados de cada critério são divulgados no feedback individual após a entrega.
 
 ---
 

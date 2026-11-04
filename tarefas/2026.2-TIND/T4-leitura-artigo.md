@@ -1,4 +1,4 @@
-**Tarefa Individual — Leitura de Artigo Científico (T4)**
+# T4 - Tarefa 04 - Leitura e Análise Crítica de Artigo Científico
 
 **Turma:** DCT2302 — 2026.2-TIND (Ensino Individualizado)  
 **Discente:** Artur Morais Candeia  

@@ -1,4 +1,4 @@
-# P2 — Detalhamento, Arquitetura e Implementação Inicial (Individual · YP-Agentic)
+# P2 - Projeto 02 - Requisitos, Arquitetura e Implementação
 
 **Disciplina:** Engenharia de Software II — DCT2302
 **Turma:** 2026.2-TIND (Ensino Individualizado)
@@ -49,6 +49,6 @@ Conforme `templates/doc-arquitetura.md`:
 
 - Issue por US/tarefa; branch `feature/#<id>-<nome>`; commits Conventional Commits com `#<id>`; PR com descrição e `Closes #<id>`.
 
-## 4. Critérios (10,0 pontos)
+## 4. Avaliação (10,0 pontos)
 
-Conforme `P2-criterios.md`.
+A avaliação considera a completude e a qualidade técnica dos artefatos produzidos, o fluxo Git/GitHub adotado (issues, branches, commits convencionais e Pull Requests) e a coerência entre documentação e código. Os pesos detalhados de cada critério são divulgados no feedback individual após a entrega.

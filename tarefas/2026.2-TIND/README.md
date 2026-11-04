@@ -7,10 +7,11 @@ Turma de ensino individualizado da disciplina **Engenharia de Software II (DCT23
 - **Repositórios do Projeto SIGAEX:**
   - Backend: [https://github.com/labens-ufrn/sigaex-backend](https://github.com/labens-ufrn/sigaex-backend)
   - Frontend: [https://github.com/labens-ufrn/sigaex-frontend](https://github.com/labens-ufrn/sigaex-frontend)
-- **Entrega das tarefas individuais (T1 a T3):** entregues em diretório próprio no fork do discente:
+- **Entrega das tarefas individuais (T1 a T4):** entregues em diretório próprio no fork do discente:
   - `tarefas/2026.2-TIND/<username>/tarefa01.md`
   - `tarefas/2026.2-TIND/<username>/tarefa02.md`
   - `tarefas/2026.2-TIND/<username>/tarefa03.md`
+  - `tarefas/2026.2-TIND/<username>/tarefa04.md`
 
 ---
 
@@ -34,15 +35,15 @@ Turma de ensino individualizado da disciplina **Engenharia de Software II (DCT23
 
 ---
 
-## 3. Tarefas de Projeto — SIGAEX (YP-Agentic)
+## 3. Projetos — SIGAEX (YP-Agentic)
 
 | Tarefa | Título | Unidade | Prazo | Enunciado |
 | :---: | :--- | :---: | :---: | :--- |
-| **P1** | Iniciação e Planejamento (Fases 1–3) | 1ª Unidade | 29/09 | [P1-tarefa1.md](P1-tarefa1.md) |
-| **P2** | Requisitos, Arquitetura e Implementação (Fases 4–6) | 1ª Unidade | 06/10 | [P2-tarefa2.md](P2-tarefa2.md) |
-| **P3** | Implementação de 3 USs, APF e SonarQube ≥ 25% | 2ª Unidade | 27/10 | [P3-tarefa3.md](P3-tarefa3.md) |
-| **P4** | Evolução de 2 USs, Testes de Sistema (Selenium) e Cobertura ≥ 65% | 3ª Unidade | 17/11 | [P4-tarefa4.md](P4-tarefa4.md) |
-| **P5** | Conteinerização Docker, Deploy e Cobertura ≥ 80% | 3ª Unidade | 08/12 | [P5-tarefa5.md](P5-tarefa5.md) |
+| **P1** | Projeto 01 — Iniciação e Planejamento do Projeto (Fases 1–3) | 1ª Unidade | 29/09 | [P1-tarefa1.md](P1-tarefa1.md) |
+| **P2** | Projeto 02 — Requisitos, Arquitetura e Implementação (Fases 4–6) | 1ª Unidade | 06/10 | [P2-tarefa2.md](P2-tarefa2.md) |
+| **P3** | Projeto 03 — Implementação e Testes de Unidade (3 USs, APF, SonarQube ≥ 25%) | 2ª Unidade | 27/10 | [P3-tarefa3.md](P3-tarefa3.md) |
+| **P4** | Projeto 04 — Evolução e Testes de Sistema com Selenium (2 USs, Cobertura ≥ 65%) | 3ª Unidade | 17/11 | [P4-tarefa4.md](P4-tarefa4.md) |
+| **P5** | Projeto 05 — Conteinerização com Docker, CI/CD e Implantação (Cobertura ≥ 80%) | 3ª Unidade | 08/12 | [P5-tarefa5.md](P5-tarefa5.md) |
 
 ---
 

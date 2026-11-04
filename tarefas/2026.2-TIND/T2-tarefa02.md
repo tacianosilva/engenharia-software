@@ -1,4 +1,4 @@
-**Tarefa 02 - Teste de Unidade**
+# T2 - Tarefa 02 - Testes de Unidade, Integração e Mocks
 
 **Turma:** DCT2302 — 2026.2-TIND (Ensino Individualizado)
 **Discente:** Artur Morais Candeia

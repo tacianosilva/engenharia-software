@@ -1,4 +1,4 @@
-# P5 — Implantação com Docker, CI/CD e Consolidação (Individual)
+# P5 - Projeto 05 - Conteinerização com Docker, CI/CD e Implantação
 
 **Disciplina:** Engenharia de Software II — DCT2302  
 **Turma:** 2026.2-TIND (Ensino Individualizado)  

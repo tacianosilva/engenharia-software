@@ -1,4 +1,4 @@
-# P3 — Implementação e Testes de Unidade (Individual)
+# P3 - Projeto 03 - Implementação e Testes de Unidade
 
 **Disciplina:** Engenharia de Software II — DCT2302
 **Turma:** 2026.2-TIND (Ensino Individualizado)

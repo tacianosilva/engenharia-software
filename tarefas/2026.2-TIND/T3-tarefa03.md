@@ -1,4 +1,4 @@
-**Tarefa 03 — Integração Contínua (CI) e SonarQube**
+# T3 - Tarefa 03 - Integração Contínua (CI) e SonarQube
 
 **Turma:** DCT2302 — 2026.2-TIND (Ensino Individualizado)  
 **Discente:** Artur Morais Candeia  
