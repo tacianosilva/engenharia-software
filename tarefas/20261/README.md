@@ -7,5 +7,5 @@
 
 ## Tarefas em Grupos (Projetos)
 
-* [Tarefa 01 - Iniciação e Planejamento do Projeto](projetos/tarefa1.md)
-* [Tarefa 02 - Detalhamento e Arquitetura do Software](projetos/tarefa2.md)
+* [Tarefa 01 - Iniciação e Planejamento do Projeto](projetos/P1-tarefa1.md)
+* [Tarefa 02 - Detalhamento e Arquitetura do Software](projetos/P2-tarefa2.md)

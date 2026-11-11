@@ -11,8 +11,8 @@
 
 ## Projetos (Tarefas em Grupos)
 
-* [Projeto 01 - Iniciação e Planejamento do Projeto](projetos/tarefa1.md)
-* [Projeto 02 - Detalhamento e Arquitetura do Software](projetos/tarefa2.md)
+* [Projeto 01 - Iniciação e Planejamento do Projeto](projetos/P1-tarefa1.md)
+* [Projeto 02 - Detalhamento e Arquitetura do Software](projetos/P2-tarefa2.md)
 * [Projeto 03 - Implementação e Testes de Unidade](projetos/P3-tarefa3.md)
 * [Projeto 04 - Evolução e Testes de Aceitação](projetos/P4-tarefa4.md)
 * [Projeto 05 - CI/CD, Implantação e Qualidade](projetos/P5-tarefa5.md)
